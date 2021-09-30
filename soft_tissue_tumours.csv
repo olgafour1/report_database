@@ -1,0 +1,170 @@
+,subtype,tumour_type
+1, atypical lipomatous tumour, Intermediate (locally aggressive)
+2, well-differentiated liposarcoma, Intermediate (locally aggressive)
+3, dedifferentiated liposarcoma, Malignant
+4, myxoid liposarcoma, Malignant
+5, pleomorphic liposarcoma, Malignant
+6, liposarcoma not otherwise specified, Malignant
+7, palmar/plantar type fibromatosis, Intermediate (locally aggressive)
+8, desmoid-type fibromatosis, Intermediate (locally aggressive)
+9, lipofibromatosis, Intermediate (locally aggressive)
+10, giant cell fibroblastoma, Intermediate (locally aggressive)
+11, dermatofibrosarcoma protuberans, Intermediate (rarely metastasizing)
+12, fibrosarcomatous dermatofibrosarcoma protuberans, Intermediate (rarely metastasizing)
+13, pigmented dermatofibrosarcoma protuberans, Intermediate (rarely metastasizing)
+14, solitary fibrous tumour, Intermediate (rarely metastasizing)
+15, solitary fibrous tumour malignant, Intermediate (rarely metastasizing)
+16, inflammatory myofibroblastic sarcoma, Intermediate (rarely metastasizing)
+17, low grade myofibroblastic sarcoma, Intermediate (rarely metastasizing)
+18, myxoinflammatory fibroblastic sarcoma, Intermediate (rarely metastasizing)
+19, infantile fibrosarcoma, Intermediate (rarely metastasizing)
+20, adult fibrosarcoma, Malignant
+21, myxofibrosarcoma, Malignant
+22, low-grade fibromyxoid sarcoma, Malignant
+23, sclerosing epithelioid fibrosarcoma, Malignant
+24, plexiform fibrohistiocytic tumour, Intermediate (rarely metastasizing)
+25, giant cell tumour of soft tissue, Intermediate (rarely metastasizing)
+26, leiomyosarcoma, Malignant
+27, embryonal rhabdomyosarcoma (including botryoid anaplastic), Malignant
+28, alveolar rhabdomyosarcoma (including solid anaplastic), Malignant
+29, pleomorphic rhabdomyosarcoma, Malignant
+30, spindle cell/sclerosing rhabdomyosarcoma, Malignant
+31, kaposiform haemangioendothelioma, Intermediate (locally aggressive)
+32, retiform haemangioendothelioma, Intermediate (rarely metastasizing)
+33, papillary intralymphatic angioendothelioma, Intermediate (rarely metastasizing)
+34, composite haemangioendothelioma, Intermediate (rarely metastasizing)
+35, pseudomyogenic (epithelioid sarcoma-like) haemangioendothelioma, Intermediate (rarely metastasizing)
+36, kaposi sarcoma, Intermediate (rarely metastasizing)
+37, epithelioid haemangioendothelioma, Malignant
+38, angiosarcoma of soft tissue, Malignant
+39, malignant peripheral nerve sheath tumour, Malignant
+40, epithelioid malignant peripheral nerve sheath tumour, Malignant
+41, malignant triton tumour, Malignant
+42, malignant granular cell tumour, Malignant
+43, ectomesenchymoma, Malignant
+44, mesenchymal chondrosarcoma, Malignant
+45, extraskeletal osteosarcoma, Malignant
+46, haemosiderotic fibrolipomatous tumour, Intermediate (locally aggressive)
+47, atypical fibroxanthoma, Intermediate (rarely metastasizing)
+48, angiomatoid fibrous histiocytoma, Intermediate (rarely metastasizing)
+49, ossifying fibromyxoid tumour malignant, Intermediate (rarely metastasizing)
+50, mixed tumour  malignant, Intermediate (rarely metastasizing)
+51, myoepithelial carcinoma, Intermediate (rarely metastasizing)
+52, phosphaturic mesenchymal tumour malignant, Intermediate (rarely metastasizing)
+53, synovial sarcoma , Malignant
+54, synovial sarcoma spindle cell, Malignant
+55, synovial sarcoma biphasic, Malignant
+56, epithelioid sarcoma, Malignant
+57, alveolar soft-part sarcoma, Malignant
+58, clear cell sarcoma of soft tissue, Malignant
+59, extraskeletal myxoid chondrosarcoma, Malignant
+60, extraskeletal ewing sarcoma, Malignant
+61, desmoplastic small round cell tumour, Malignant
+62, extra-renal rhabdoid tumour, Malignant
+63, neoplasms with perivascular epithelioid cell differentiation (pecoma) 1 pecoma malignant, Malignant
+64, intimal sarcoma, Malignant
+0,fibrolipoma,Benign
+1,lipomatosis,Benign
+2,lipomatosis of nerve,Benign
+3,lipoblastoma,Benign
+4,lipoblastomatosis,Benign
+5,angiolipoma,Benign
+6,myolipoma of soft tissue,Benign
+7,chondroid lipoma,Benign
+8,extra-renal angiomyolipoma,Benign
+9,extra-adrenal myelolipoma,Benign
+10,spindle cell lipoma,Benign
+11,pleomorphic lipoma,Benign
+12,hibernoma,Benign
+13,lipoma(?!.*like),Benign
+14,lipoma,Benign
+15,dedifferentiated adipocytic neoplasm,Benign
+16,nodular fasciitis,Benign
+17,proliferative fasciitis,Benign
+18,proliferative myositis,Benign
+19,myositis ossifficans,Benign
+20,fibro-osseous pseudotumour,Benign
+21,ischemic fasciitis,Benign
+22,elastofibroma,Benign
+23,fibrous hamartoma,Benign
+24,fibromatosis colli,Benign
+25,juvenile hyaline fibromatosis,Benign
+26,inclusion body fibromatosis,Benign
+27,fibroma of tendon sheath,Benign
+28,desmoplastic fibroblastoma,Benign
+29,mammary-type myofibroblastoma,Benign
+30,myofibroblastoma,Benign
+31,calcifying aponeurotic fibroma,Benign
+32,angiomyofibroblastoma,Benign
+33,cellular angiofibroma,Benign
+34,nuchal-type fibroma,Benign
+35,gardner fibroma,Benign
+36,calcifying fibrous (tumour|tumor),Benign
+37,tenosynovial giant cell tumour,Benign
+38,tenosynovial giant cell tumor,Benign
+39,tenosynovial giant cell tumour localized type,Benign
+40,tenosynovial giant cell tumor localized type,Benign
+41,tenosynovial giant cell tumour diffuse type,Benign
+42,tenosynovial giant cell tumor diffuse type,Benign
+43,deep benign fibrous tumor,Benign
+44,deep benign fibrous tumour,Benign
+45,leiomyoma,Benign
+46,smooth muscle neoplasm,Benign
+47,smooth muscle tumor,Benign
+48,smooth muscle tumour,Benign
+49,rhabdomyoma,Benign
+50,schwannoma,Benign
+51,melanotic schwannoma,Benign
+52,neurofibroma,Benign
+53,plexiform neurofibroma,Benign
+54,perineurioma,Benign
+55,ganglioneuroma,Benign
+56,malignant perineurioma,Benign
+57,granular cell (tumour|tumor),Benign
+58,dermal nerve sheath myxoma,Benign
+59,myxoma,Benign
+60,solitary circumscribed neuroma,Benign
+61,ectopic meningioma,Benign
+62,nasal glial heterotopia,Benign
+63,benign triton tumour,Benign
+64,hybrid nerve (tumour|tumor)s,Benign
+65,benign gastrointestinal stromal (tumour|tumor),Benign
+66,acral fibromyxoma,Benign
+67,intramuscular myxoma,Benign
+68,juxta-articular myxoma,Benign
+69,deep angiomyxoma,Benign
+70,pleomorphic hyalinizing angiectatic (tumour|tumor),Benign
+71,ectopic hamartomatous thymoma,Benign
+72,benign notochordal tumour,Benign
+73,benign notochordal tumor,Benign
+74,epidermoid cyst,Benign
+75,solitary fibrous tumour,Intermediate (rarely metastasizing)
+76,solitary fibrous tumor,Intermediate (rarely metastasizing)
+77,dermatofibrosarcoma,Intermediate (rarely metastasizing)
+78,myxoid sarcoma,Malignant
+79,epithelioid hemangioendothelioma,Malignant
+80,angiosarcoma,Malignant
+81,rhabdomyosarcoma,Malignant
+82,neuroblastoma,Malignant
+83,chondrosarcoma,Malignant
+84,gastrointestinal stromal tumour,Malignant
+85,gastrointestinal stromal tumor,Malignant
+86,gist,Malignant
+87,synovial sarcoma,Malignant
+88,pleomorphic dermal sarcoma,Malignant
+89,spindle cell sarcoma,Malignant
+90,pleomorphic sarcoma,Malignant
+91,round cell sarcoma,Malignant
+92,epithelioid sarcoma,Malignant
+93,sarcoma (nos),Malignant
+94,undifferentiated sarcoma,Malignant
+95,chordoma,Malignant
+96,melanoma,Malignant
+97,adenosarcoma,Malignant
+98,adenoid cystic carcinoma,Malignant
+99,sarcomatoid carcinoma,Malignant
+100,uncertain,Not identified
+101,rheumatoid arthritis,other
+102,endometriosis,other
+103,fibrosis,other
+104,serositis,other

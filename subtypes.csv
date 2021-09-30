@@ -1,0 +1,158 @@
+,subtype
+0, atypical lipomatous tumour
+1, well-differentiated liposarcoma
+2, dedifferentiated liposarcoma
+3, myxoid liposarcoma
+4, pleomorphic liposarcoma
+5, liposarcoma not otherwise specified
+6, palmar/plantar type fibromatosis
+7, desmoid-type fibromatosis
+8, lipofibromatosis
+9, giant cell fibroblastoma
+10, dermatofibrosarcoma protuberans
+11, fibrosarcomatous dermatofibrosarcoma protuberans
+12, pigmented dermatofibrosarcoma protuberans
+13, solitary fibrous tumour
+14, solitary fibrous tumour malignant
+15, inflammatory myofibroblastic sarcoma
+16, low grade myofibroblastic sarcoma
+17, myxoinflammatory fibroblastic sarcoma
+18, infantile fibrosarcoma
+19, adult fibrosarcoma
+20, myxofibrosarcoma
+21, low-grade fibromyxoid sarcoma
+22, sclerosing epithelioid fibrosarcoma
+23, plexiform fibrohistiocytic tumour
+24, giant cell tumour of soft tissue
+25, leiomyosarcoma
+26, embryonal rhabdomyosarcoma (including botryoid anaplastic)
+27, alveolar rhabdomyosarcoma (including solid anaplastic)
+28, pleomorphic rhabdomyosarcoma
+29, spindle cell/sclerosing rhabdomyosarcoma
+30, kaposiform haemangioendothelioma
+31, retiform haemangioendothelioma
+32, papillary intralymphatic angioendothelioma
+33, composite haemangioendothelioma
+34, pseudomyogenic (epithelioid sarcoma-like) haemangioendothelioma
+35, kaposi sarcoma
+36, epithelioid haemangioendothelioma
+37, angiosarcoma of soft tissue
+38, malignant peripheral nerve sheath tumour
+39, epithelioid malignant peripheral nerve sheath tumour
+40, malignant triton tumour
+41, malignant granular cell tumour
+42, ectomesenchymoma
+43, mesenchymal chondrosarcoma
+44, extraskeletal osteosarcoma
+45, haemosiderotic fibrolipomatous tumour
+46, atypical fibroxanthoma
+47, angiomatoid fibrous histiocytoma
+48, ossifying fibromyxoid tumour malignant
+49, mixed tumour  malignant
+50, myoepithelial carcinoma
+51, phosphaturic mesenchymal tumour malignant
+52, synovial sarcoma 
+53, synovial sarcoma spindle cell
+54, synovial sarcoma biphasic
+55, epithelioid sarcoma
+56, alveolar soft-part sarcoma
+57, clear cell sarcoma of soft tissue
+58, extraskeletal myxoid chondrosarcoma
+59, extraskeletal ewing sarcoma
+60, desmoplastic small round cell tumour
+61, extra-renal rhabdoid tumour
+62, neoplasms with perivascular epithelioid cell differentiation (pecoma) 1 pecoma malignant
+63, intimal sarcoma
+64,solitary fibrous (tumour|tumor)
+65,dermatofibrosarcoma
+66, fibrolipoma
+67, lipomatosis
+68, lipomatosis of nerve
+69, lipoblastoma
+70, lipoblastomatosis
+71, angiolipoma
+72, myolipoma of soft tissue
+73, chondroid lipoma
+74, extra-renal angiomyolipoma
+75, extra-adrenal myelolipoma
+76, spindle cell lipoma
+77, pleomorphic lipoma
+78, hibernoma
+79, lipoma(?!.*like)
+80, dedifferentiated adipocytic neoplasm
+81,nodular fasciitis
+82,proliferative fasciitis
+83,proliferative myositis
+84,myositis ossifficans
+85,fibro-osseous pseudotumour
+86,ischemic fasciitis
+87,elastofibroma
+88,fibrous hamartoma
+89,fibromatosis colli
+90,juvenile hyaline fibromatosis
+91,inclusion body fibromatosis
+92,fibroma of tendon sheath
+93,desmoplastic fibroblastoma
+94,mammary-type myofibroblastoma
+95,myofibroblastoma
+96,calcifying aponeurotic fibroma
+97,angiomyofibroblastoma
+98,cellular angiofibroma
+99,nuchal-type fibroma
+100,gardner fibroma
+101,calcifying fibrous (tumour|tumor)
+102,tenosynovial giant cell (tumour|tumor)
+103,tenosynovial giant cell (tumour|tumor) localized type
+104,tenosynovial giant cell (tumour|tumor) diffuse type
+105,deep benign fibrous (tumour|tumor)
+106,leiomyoma
+107,smooth muscle neoplasm
+108,smooth muscle tumor
+109,rhabdomyoma
+110,schwannoma
+111,melanotic schwannoma
+112,neurofibroma
+113,plexiform neurofibroma
+114,perineurioma
+115,ganglioneuroma
+116,malignant perineurioma
+117,granular cell (tumour|tumor)
+118,dermal nerve sheath myxoma
+119,myxoma
+120,solitary circumscribed neuroma
+121,ectopic meningioma
+122,nasal glial heterotopia
+123,benign triton tumour
+124,hybrid nerve (tumour|tumor)s
+125,benign gastrointestinal stromal (tumour|tumor)
+126,acral fibromyxoma
+127,intramuscular myxoma
+128,juxta-articular myxoma
+129,deep angiomyxoma
+130,pleomorphic hyalinizing angiectatic (tumour|tumor)
+131,ectopic hamartomatous thymoma
+132,benign notochordal (tumour|tumor)
+133,epidermoid cyst
+134,myxoid sarcoma
+135,epithelioid hemangioendothelioma
+136,angiosarcoma
+137,neuroblastoma
+138,chondrosarcoma
+139,gastrointestinal stromal (tumour|tumor)
+140,gist
+141,synovial sarcoma
+142,pleomorphic dermal sarcoma
+143,spindle cell sarcoma
+144,pleomorphic sarcoma
+145,round cell sarcoma
+146,epithelioid sarcoma
+147,sarcoma (nos)
+148,undifferentiated sarcoma
+149,chordoma
+150,melanoma
+151,adenoid cystic carcinoma
+152,sarcomatoid carcinoma
+153,rheumatoid arthritis
+154,endometriosis
+155,fibrosis
+156,serositis

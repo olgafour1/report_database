@@ -1,0 +1,20 @@
+IHC MARKER	TUMOR DETECTED
+FLI1	Ewing sarcoma
+ERG	Ewing sarcoma
+AP1β	Fusion-positive alveolar rhabdomyosarcoma
+TLE1	Synovial sarcoma
+ALK	Anaplastic large cell lymphoma
+ALK	Inflammatory myofibroblastic tumor
+ROS1	Inflammatory myofibroblastic tumor
+NR4A3	Extraskeletal myxoid chondrosarcoma
+BCL-2	Follicular low grade lymphoma
+WT1	Desmoplastic small round cell tumor
+MYC	Burkitt lymphoma
+NUT	BRD4-NUT carcinoma
+BCL6	B cell lymphoma
+TFE3	Alveolar soft part sarcoma,renal translocation carcinoma
+ZAP70	Acute lymphoblastic lymphoma
+MUC4	Low grade fibromyxoid sarcoma
+CCNB3	Ewing-like undifferentiated sarcoma
+MUC4	Sclerosing epithelioid fibrosarcoma
+

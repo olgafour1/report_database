@@ -1,0 +1,142 @@
+{
+"Adipocytic tumours":{
+    "Benign":[      "Fibrolipoma",
+                    "Lipomatosis",
+                    "Lipomatosis of nerve",
+                    "Lipoblastoma",
+                    "Lipoblastomatosis",
+                    "Angiolipoma", 
+                    "Myolipoma of soft tissue",
+                    "Chondroid lipoma",
+                    "Extra-renal angiomyolipoma",
+                    "Extra-adrenal myelolipoma",
+                    "Spindle cell lipoma", 
+                    "Pleomorphic lipoma", 
+                    "Hibernoma",
+                    "Lipoma(?!.*like)",
+                    "Lipoma",
+                    "Dedifferentiated adipocytic neoplasm"],
+    "Malignant":["myxoid sarcoma"]
+    
+    },
+    
+"Fibroblastic/myofibroblastic tumours":{
+    "Benign":      ["Nodular fasciitis",
+                    "Proliferative fasciitis",
+                    "Proliferative myositis",
+                    "Myositis ossifficans",
+                    "Fibro-osseous pseudotumour",
+                    "Ischemic fasciitis",
+                    "Elastofibroma",
+                    "Fibrous hamartoma",
+                    "Fibromatosis colli",
+                    "Juvenile hyaline fibromatosis",
+                    "Inclusion body fibromatosis",
+                    "Fibroma of tendon sheath",
+                    "Desmoplastic fibroblastoma",
+                    "Mammary-type myofibroblastoma",
+                    "Myofibroblastoma",
+                    "Calcifying aponeurotic fibroma",
+                    "Angiomyofibroblastoma",
+                    "Cellular angiofibroma",
+                    "Nuchal-type fibroma",
+                    "Gardner fibroma",
+                    "Calcifying fibrous (tumour|tumor)"],
+    "Intermediate (rarely metastasizing)":["Solitary fibrous tumour",
+                                           "Solitary fibrous tumor",
+                                            "Dermatofibrosarcoma"]
+    },
+    "So-called fibrohistiocytic tumours":{
+    "Benign":       ["Tenosynovial giant cell tumour",
+                     "Tenosynovial giant cell tumor",
+                     "Tenosynovial giant cell tumour Localized type",
+                     "Tenosynovial giant cell tumor Localized type",
+                     "Tenosynovial giant cell tumour Diffuse type",
+                     "Tenosynovial giant cell tumor Diffuse type",
+                     "Deep benign fibrous tumor",
+                     "Deep benign fibrous tumour"]
+        },
+    
+    "Smooth-muscle tumours":{
+        "Benign":["Leiomyoma",
+                "smooth muscle neoplasm",
+                 "smooth muscle tumor",
+                  "smooth muscle tumour"]   
+        },
+    "Skeletal-muscle tumours":{
+        "Benign":["Rhabdomyoma"],
+        "Malignant":["Epithelioid hemangioendothelioma",
+                    "Angiosarcoma",
+                    "Rhabdomyosarcoma"]
+        }, 
+    "Nerve sheath tumours":{
+        "Benign":   ["Schwannoma",
+                    "Melanotic schwannoma",
+                    "Neurofibroma",
+                    "Plexiform neurofibroma",
+                    "Perineurioma",
+                    "Ganglioneuroma",
+                    "Malignant perineurioma",
+                    "Granular cell (tumour|tumor)",
+                    "Dermal nerve sheath myxoma",
+                    "myxoma",
+                    "Solitary circumscribed neuroma",
+                    "Ectopic meningioma",
+                    "Nasal glial heterotopia",
+                    "Benign Triton tumour",
+                    "Hybrid nerve (tumour|tumor)s"],
+         "Malignant":["Neuroblastoma"]
+    },
+    "Chondro-osseus tumours":{
+        "Malignant":["chondrosarcoma"]
+    },
+    
+    "Gastrointestinal stromal tumours":{
+            "Benign":["Benign gastrointestinal stromal (tumour|tumor)"],
+            "Malignant":["Gastrointestinal stromal tumour",
+                         "Gastrointestinal stromal tumor",
+                         "GIST"]
+    },
+    "Tumours of uncertain differentiation":{
+        "Benign":["Acral fibromyxoma",
+            "Intramuscular myxoma",
+            "Juxta-articular myxoma",
+            "Deep angiomyxoma",
+            "Pleomorphic hyalinizing angiectatic (tumour|tumor)",
+            "Ectopic hamartomatous thymoma"],
+        "Malignant":["synovial sarcoma",
+                "Pleomorphic dermal sarcoma"]
+    },
+    "Undifferentiated / unclassified sarcomas":{
+        "Malignant":["spindle cell sarcoma",
+            "pleomorphic sarcoma",
+             "round cell sarcoma",
+             "epithelioid sarcoma",
+             "sarcoma (NOS)",
+             "undifferentiated sarcoma"]
+    },
+    
+    "Notochordal_tumours":{
+        "Benign":["Benign notochordal tumour",
+                  "Benign notochordal tumor"],
+        "Malignant":["Chordoma"]
+    },
+    
+    
+    "Other not sarcomas":{
+        "Malignant":["Melanoma",
+                     "Adenosarcoma",
+                     "Adenoid cystic carcinoma",
+                     "Sarcomatoid carcinoma"],
+        "Benign":["epidermoid cyst"],
+         "other":["rheumatoid arthritis",
+                "endometriosis",
+                "fibrosis",
+                "serositis"
+                ]
+    },
+    
+    "Uncertain morphology":{
+            "Not identified":["uncertain"]
+                     }
+}

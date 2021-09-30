@@ -1,0 +1,310 @@
+,Unnamed: 0_x,Age,Diagnosis,Grade,Lab No,Patient,Sex,report_file,Unnamed: 0_y,subtype,tumour_type,patient,number of scans
+0,0,21,nodular fasciitis,,4066 20,746516,F,medical_reports/746516.jpg,16.0,nodular fasciitis,Benign,746516,5
+1,1,59,leiomyosarcoma,2.0,2392 20,741984,M,medical_reports/741984.pdf,26.0,leiomyosarcoma,Malignant,741984,4
+2,2,81,pleomorphic sarcoma,3.0,8150/20,726249,M,medical_reports/726249.jpg,90.0,pleomorphic sarcoma,Malignant,726249,3
+3,52,81,pleomorphic sarcoma,2.0,6790/20,726249,M,medical_reports/726249.pdf,90.0,pleomorphic sarcoma,Malignant,726249,3
+4,3,68,leiomyosarcoma,,8805/20,752384,M,medical_reports/752384.jpg,26.0,leiomyosarcoma,Malignant,752384,1
+5,4,61,schwannoma,,6616/20,742180,F,medical_reports/742180.pdf,50.0,schwannoma,Benign,742180,1
+6,5,58,well-differentiated liposarcoma,1.0,0604/20,736259,F,medical_reports/736259.pdf,2.0,well-differentiated liposarcoma,Intermediate (locally),736259,14
+7,6,48,atypical lipomatous tumour,,588/20,737695,F,medical_reports/737695.pdf,1.0,atypical lipomatous tumour,Intermediate (locally),737695,9
+8,7,71,leiomyosarcoma,3.0,3384/20,678367,F,medical_reports/678367.jpg,26.0,leiomyosarcoma,Malignant,678367,5
+9,8,65,myofibroblastoma,,3764 20,740278,F,medical_reports/740278.jpg,30.0,myofibroblastoma,Benign,740278,6
+10,9,22,desmoid-type fibromatosis,,6395 20,749189,F,medical_reports/749189.pdf,8.0,desmoid-type fibromatosis,Intermediate (locally),749189,1
+11,10,53,leiomyosarcoma,3.0,1698 20,744062,F,medical_reports/744062.pdf,26.0,leiomyosarcoma,Malignant,744062,19
+12,11,61,fibrolipoma,,986/20,740690,F,medical_reports/740690.pdf,0.0,fibrolipoma,Benign,740690,7
+13,12,76,myxofibrosarcoma,2.0,8513/20,752665,M,medical_reports/752665.jpg,21.0,myxofibrosarcoma,Malignant,752665,1
+14,13,34,spindle cell sarcoma,3.0,7079/20,690405,M,medical_reports/690405.pdf,89.0,spindle cell sarcoma,Malignant,690405,1
+15,14,55,pleomorphic sarcoma,,6301/20,574148,M,medical_reports/574148.pdf,90.0,pleomorphic sarcoma,Malignant,574148,1
+16,15,75,spindle cell sarcoma,2.0,5377 20,723014,F,medical_reports/723014.pdf,89.0,spindle cell sarcoma,Malignant,723014,2
+17,16,18,rhabdomyosarcoma,,3032/20,745337,M,medical_reports/745337.pdf,81.0,rhabdomyosarcoma,Malignant,745337,2
+18,17,44,pleomorphic sarcoma,2.0,3181/20,740221,M,medical_reports/740221.pdf,90.0,pleomorphic sarcoma,Malignant,740221,12
+19,18,73,desmoid-type fibromatosis,,8617/20,749815,F,medical_reports/749815.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),749815,2
+20,312,73,desmoid-type fibromatosis,,6955/20,749815,F,medical_reports/749815.pdf,8.0,desmoid-type fibromatosis,Intermediate (locally),749815,2
+21,19,47,well-differentiated liposarcoma,,8551/20,667098,F,medical_reports/667098.jpg,2.0,well-differentiated liposarcoma,Intermediate (locally),667098,1
+22,21,73,leiomyosarcoma,3.0,7756/20,751523,M,medical_reports/751523.jpg,26.0,leiomyosarcoma,Malignant,751523,1
+23,22,65,leiomyosarcoma,3.0,7861/20,750034,F,medical_reports/750034.jpg,26.0,leiomyosarcoma,Malignant,750034,1
+24,23,71,angiosarcoma,,7546/20,749870,M,medical_reports/749870.jpg,80.0,angiosarcoma,Malignant,749870,1
+25,24,51,solitary fibrous tumour,,4269 20,746764,F,medical_reports/746764.jpg,14.0,solitary fibrous tumour,Intermediate (rarely),746764,2
+26,24,51,solitary fibrous tumour,,4269 20,746764,F,medical_reports/746764.jpg,75.0,solitary fibrous tumour,Intermediate (rarely),746764,2
+27,25,59,pleomorphic sarcoma,3.0,8396/20,752349,F,medical_reports/752349.jpg,90.0,pleomorphic sarcoma,Malignant,752349,1
+28,26,58,elastofibroma,,6970/20,742276,M,medical_reports/742276.pdf,22.0,elastofibroma,Benign,742276,1
+29,27,71,chondrosarcoma,,5394 20,380577,F,medical_reports/380577.pdf,83.0,chondrosarcoma,Malignant,380577,2
+30,28,77,leiomyosarcoma,,3468/20,731672,F,medical_reports/731672.pdf,26.0,leiomyosarcoma,Malignant,731672,6
+31,29,37,epidermoid cyst,,1280 20,740198,M,medical_reports/740198.pdf,74.0,epidermoid cyst,Benign,740198,4
+32,30,66,spindle cell sarcoma,2.0,8833/20,698984,M,medical_reports/698984.jpg,89.0,spindle cell sarcoma,Malignant,698984,1
+33,32,49,myxoma,,6694/20,749963,M,medical_reports/749963.pdf,59.0,myxoma,Benign,749963,2
+34,289,49,intramuscular myxoma,,7934/20,749963,M,medical_reports/749963.jpg,67.0,intramuscular myxoma,Benign,749963,2
+35,33,33,gastrointestinal stromal tumour,,1265/20,742442,M,medical_reports/742442.pdf,84.0,gastrointestinal stromal tumour,Malignant,742442,2
+36,34,30,dermatofibrosarcoma,,2003 20,741139,M,medical_reports/741139.pdf,77.0,dermatofibrosarcoma,Intermediate (rarely),741139,6
+37,35,88,myxofibrosarcoma,2.0,6696/20,750050,F,medical_reports/750050.pdf,21.0,myxofibrosarcoma,Malignant,750050,1
+38,36,72,desmoid-type fibromatosis,,7563/20,749443,F,medical_reports/749443.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),749443,1
+39,37,60,leiomyosarcoma,,8103/20,398221,F,medical_reports/398221.jpg,26.0,leiomyosarcoma,Malignant,398221,1
+40,39,76,leiomyosarcoma,3.0,4440/20,739991,M,medical_reports/739991.jpg,26.0,leiomyosarcoma,Malignant,739991,1
+41,41,44,adenosarcoma,,7822/20,750248,F,medical_reports/750248.jpg,97.0,adenosarcoma,Malignant,750248,1
+42,44,44,dermatofibrosarcoma protuberans,,4610 20,747281,F,medical_reports/747281.jpg,11.0,dermatofibrosarcoma protuberans,Intermediate (rarely),747281,3
+43,45,85,angiosarcoma,,6907/20,748808,F,medical_reports/748808.pdf,80.0,angiosarcoma,Malignant,748808,1
+44,46,64,lipoma,,6356/20,748001,F,medical_reports/748001.pdf,14.0,lipoma,Benign,748001,1
+45,47,44,spindle cell sarcoma,2.0,0858/20,741861,F,medical_reports/741861.pdf,89.0,spindle cell sarcoma,Malignant,741861,11
+46,48,46,spindle cell sarcoma,,5625/19,732874,F,medical_reports/732874.pdf,89.0,spindle cell sarcoma,Malignant,732874,1
+47,49,81,spindle cell sarcoma,1.0,9264/20,753196,F,medical_reports/753196.jpg,89.0,spindle cell sarcoma,Malignant,753196,1
+48,51,59,well-differentiated liposarcoma,2.0,8797/20,524564,M,medical_reports/524564.jpg,2.0,well-differentiated liposarcoma,Intermediate (locally),524564,3
+49,54,56,leiomyosarcoma,,0476/20,692634,F,medical_reports/692634.pdf,26.0,leiomyosarcoma,Malignant,692634,6
+50,55,46,dedifferentiated liposarcoma,2.0,6998/20,559279,F,medical_reports/559279.pdf,3.0,dedifferentiated liposarcoma,Malignant,559279,1
+51,56,90,pleomorphic dermal sarcoma,3.0,7046/20,751062,M,medical_reports/751062.pdf,88.0,pleomorphic dermal sarcoma,Malignant,751062,1
+52,57,55,myxoid liposarcoma,,5281 20,746534,F,medical_reports/746534.pdf,4.0,myxoid liposarcoma,Malignant,746534,1
+53,60,82,spindle cell sarcoma,2.0,5013 20,740160,F,medical_reports/740160.pdf,89.0,spindle cell sarcoma,Malignant,740160,1
+54,61,36,leiomyoma,,8210/20,749968,M,medical_reports/749968.jpg,45.0,leiomyoma,Benign,749968,1
+55,62,86,myxoid liposarcoma,,1770/20,519535,F,medical_reports/519535.pdf,4.0,myxoid liposarcoma,Malignant,519535,10
+56,63,82,spindle cell sarcoma,3.0,7609/20,751516,M,medical_reports/751516.jpg,89.0,spindle cell sarcoma,Malignant,751516,1
+57,65,56,desmoid-type fibromatosis,,8121/20,381305,F,medical_reports/381305.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),381305,1
+58,66,48,adenoid cystic carcinoma,,0455/20,742419,M,medical_reports/742419.pdf,98.0,adenoid cystic carcinoma,Malignant,742419,6
+59,67,59,myxofibrosarcoma,2.0,4141 20,746505,M,medical_reports/746505.jpg,21.0,myxofibrosarcoma,Malignant,746505,8
+60,68,30,lipoma,,9620/19,725466,F,medical_reports/725466.jpg,14.0,lipoma,Benign,725466,6
+61,69,55,lipoma,,1193 20,742590,M,medical_reports/742590.pdf,14.0,lipoma,Benign,742590,6
+62,70,83,schwannoma,,3064 20,742429,F,medical_reports/742429.pdf,50.0,schwannoma,Benign,742429,3
+63,71,75,spindle cell sarcoma,2.0,6197/20,748831,F,medical_reports/748831.pdf,89.0,spindle cell sarcoma,Malignant,748831,1
+64,72,50,dedifferentiated liposarcoma,2.0,4182 20,741797,M,medical_reports/741797.jpg,3.0,dedifferentiated liposarcoma,Malignant,741797,1
+65,73,90,pleomorphic dermal sarcoma,3.0,8368/20,752659,M,medical_reports/752659.jpg,88.0,pleomorphic dermal sarcoma,Malignant,752659,1
+66,74,58,myxoid liposarcoma,1.0,1246/20,650958,M,medical_reports/650958.pdf,4.0,myxoid liposarcoma,Malignant,650958,5
+67,274,58,myxoid liposarcoma,,3394/20,650958,M,medical_reports/650958.jpg,4.0,myxoid liposarcoma,Malignant,650958,5
+68,75,49,low-grade fibromyxoid sarcoma,,2096/20,741021,M,medical_reports/741021.jpg,22.0,low-grade fibromyxoid sarcoma,Malignant,741021,14
+69,76,39,leiomyosarcoma,2.0,3628/20,738175,F,medical_reports/738175.jpg,26.0,leiomyosarcoma,Malignant,738175,2
+70,77,83,angiosarcoma,,5458 20,617727,F,medical_reports/617727.jpg,80.0,angiosarcoma,Malignant,617727,1
+71,78,77,myxofibrosarcoma,,3463/20,738247,F,medical_reports/738247.jpg,21.0,myxofibrosarcoma,Malignant,738247,10
+72,79,43,schwannoma,,5530 20,748278,F,medical_reports/748278.jpg,50.0,schwannoma,Benign,748278,1
+73,80,44,leiomyoma,,8449/20,750186,M,medical_reports/750186.jpg,45.0,leiomyoma,Benign,750186,1
+74,81,57,spindle cell sarcoma,3.0,3240 20,745215,F,medical_reports/745215.jpg,89.0,spindle cell sarcoma,Malignant,745215,5
+75,82,44,schwannoma,,0387/20,741071,F,medical_reports/741071.pdf,50.0,schwannoma,Benign,741071,2
+76,83,77,desmoid-type fibromatosis,,3948 20,745101,M,medical_reports/745101.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),745101,3
+77,84,76,leiomyosarcoma,1.0,0800/20,742763,F,medical_reports/742763.pdf,26.0,leiomyosarcoma,Malignant,742763,3
+78,85,81,leiomyosarcoma,2.0,6892/20,751013,M,medical_reports/751013.pdf,26.0,leiomyosarcoma,Malignant,751013,1
+79,86,28,chondroid lipoma,,8724/20,749887,M,medical_reports/749887.jpg,7.0,chondroid lipoma,Benign,749887,1
+80,87,56,sarcomatoid carcinoma,3.0,5855/20,748127,M,medical_reports/748127.pdf,99.0,sarcomatoid carcinoma,Malignant,748127,1
+81,89,76,pleomorphic sarcoma,2.0,3924 20,746297,M,medical_reports/746297.jpg,90.0,pleomorphic sarcoma,Malignant,746297,6
+82,90,38,gastrointestinal stromal tumour,,8376/20,728484,M,medical_reports/728484.jpg,84.0,gastrointestinal stromal tumour,Malignant,728484,1
+83,91,50,synovial sarcoma,,4303 20,731785,F,medical_reports/731785.jpg,53.0,synovial sarcoma,Malignant,731785,8
+84,91,50,synovial sarcoma,,4303 20,731785,F,medical_reports/731785.jpg,87.0,synovial sarcoma,Malignant,731785,8
+85,92,30,angiosarcoma,,5234 20,735988,M,medical_reports/735988.pdf,80.0,angiosarcoma,Malignant,735988,1
+86,93,52,leiomyosarcoma,,7639/20,646260,F,medical_reports/646260.jpg,26.0,leiomyosarcoma,Malignant,646260,1
+87,96,41,schwannoma,,1247 20,740086,M,medical_reports/740086.pdf,50.0,schwannoma,Benign,740086,3
+88,97,62,desmoid-type fibromatosis,,7494/20,751381,F,medical_reports/751381.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),751381,1
+89,98,56,spindle cell sarcoma,3.0,8512/20,750844,F,medical_reports/750844.jpg,89.0,spindle cell sarcoma,Malignant,750844,1
+90,99,65,chondrosarcoma,,0293/20,741054,F,medical_reports/741054.pdf,83.0,chondrosarcoma,Malignant,741054,8
+91,100,56,lipoma,,8174/20,742225,M,medical_reports/742225.jpg,14.0,lipoma,Benign,742225,1
+92,101,45,gastrointestinal stromal tumour,,5286/13,616826,M,medical_reports/616826.pdf,84.0,gastrointestinal stromal tumour,Malignant,616826,4
+93,102,56,leiomyosarcoma,2.0,3514/20,735888,F,medical_reports/735888.jpg,26.0,leiomyosarcoma,Malignant,735888,10
+94,103,43,gastrointestinal stromal tumour,,8687/20,635102,M,medical_reports/635102.jpg,84.0,gastrointestinal stromal tumour,Malignant,635102,1
+95,104,62,fibrolipoma,,9104/20,752434,M,medical_reports/752434.jpg,0.0,fibrolipoma,Benign,752434,1
+96,105,90,sarcoma (nos),3.0,8166/20,751024,M,medical_reports/751024.jpg,93.0,sarcoma (nos),Malignant,751024,1
+97,106,71,pleomorphic rhabdomyosarcoma,3.0,8907/20,753071,M,medical_reports/753071.jpg,29.0,pleomorphic rhabdomyosarcoma,Malignant,753071,1
+98,107,28,hibernoma,,1749 20,740069,M,medical_reports/740069.pdf,12.0,hibernoma,Benign,740069,8
+99,108,73,well-differentiated liposarcoma,2.0,1357 20,380574,M,medical_reports/380574.pdf,2.0,well-differentiated liposarcoma,Intermediate (locally),380574,16
+100,109,34,low-grade fibromyxoid sarcoma,,2937 20,741709,F,medical_reports/741709.pdf,22.0,low-grade fibromyxoid sarcoma,Malignant,741709,1
+101,110,19,schwannoma,,8125/20,380073,M,medical_reports/380073.jpg,50.0,schwannoma,Benign,380073,1
+102,111,71,myxofibrosarcoma,2.0,4142 20,741550,F,medical_reports/741550.jpg,21.0,myxofibrosarcoma,Malignant,741550,9
+103,112,52,myxoid liposarcoma,,3851/20,6261275661,M,medical_reports/6261275661.jpg,4.0,myxoid liposarcoma,Malignant,6261275661,7
+104,113,35,desmoid-type fibromatosis,,2456 20,745029,F,medical_reports/745029.pdf,8.0,desmoid-type fibromatosis,Intermediate (locally),745029,2
+105,114,85,pleomorphic sarcoma,,7715/20,736152,M,medical_reports/736152.jpg,90.0,pleomorphic sarcoma,Malignant,736152,1
+106,115,70,leiomyosarcoma,2.0,5228 20,697097,F,medical_reports/697097.pdf,26.0,leiomyosarcoma,Malignant,697097,1
+107,116,39,leiomyosarcoma,1.0,8410/20,750835,M,medical_reports/750835.jpg,26.0,leiomyosarcoma,Malignant,750835,1
+108,117,88,pleomorphic sarcoma,3.0,5450 20,720934,M,medical_reports/720934.pdf,90.0,pleomorphic sarcoma,Malignant,720934,1
+109,118,43,nodular fasciitis,,6693/20,749805,M,medical_reports/749805.pdf,16.0,nodular fasciitis,Benign,749805,1
+110,120,81,spindle cell sarcoma,,1276 20,594889,M,medical_reports/594889.jpg,89.0,spindle cell sarcoma,Malignant,594889,5
+111,121,77,dedifferentiated liposarcoma,2.0,1629 20,742405,M,medical_reports/742405.jpg,3.0,dedifferentiated liposarcoma,Malignant,742405,18
+112,122,60,pleomorphic sarcoma,,5307 20,746704,M,medical_reports/746704.pdf,90.0,pleomorphic sarcoma,Malignant,746704,9
+113,123,55,dermatofibrosarcoma,,0657/20,739990,F,medical_reports/739990.pdf,77.0,dermatofibrosarcoma,Intermediate (rarely),739990,6
+114,124,82,spindle cell sarcoma,2.0,2391 20,741276,F,medical_reports/741276.pdf,89.0,spindle cell sarcoma,Malignant,741276,1
+115,125,69,gastrointestinal stromal tumour,,4506 20,744246,M,medical_reports/744246.jpg,84.0,gastrointestinal stromal tumour,Malignant,744246,1
+116,126,56,fibrolipoma,,8679/20,746397,F,medical_reports/746397.jpg,0.0,fibrolipoma,Benign,746397,1
+117,127,60,solitary fibrous tumour,,2324/20,742494,M,medical_reports/742494.pdf,14.0,solitary fibrous tumour,Intermediate (rarely),742494,15
+118,127,60,solitary fibrous tumour,,2324/20,742494,M,medical_reports/742494.pdf,75.0,solitary fibrous tumour,Intermediate (rarely),742494,15
+119,128,74,gastrointestinal stromal tumour,,3934/19,731349,F,medical_reports/731349.pdf,84.0,gastrointestinal stromal tumour,Malignant,731349,7
+120,130,64,leiomyosarcoma,2.0,3631 20,746406,F,medical_reports/746406.jpg,26.0,leiomyosarcoma,Malignant,746406,2
+121,131,80,myxofibrosarcoma,2.0,2320/14,630043,M,medical_reports/630043.pdf,21.0,myxofibrosarcoma,Malignant,630043,6
+122,195,80,myxofibrosarcoma,2.0,5371 20,630043,M,medical_reports/630043.jpg,21.0,myxofibrosarcoma,Malignant,630043,6
+123,133,66,well-differentiated liposarcoma,,7306/20,748849,M,medical_reports/748849.jpg,2.0,well-differentiated liposarcoma,Intermediate (locally),748849,1
+124,134,79,spindle cell sarcoma,3.0,0456/20,739986,F,medical_reports/739986.pdf,89.0,spindle cell sarcoma,Malignant,739986,9
+125,135,72,schwannoma,,8122/20,749843,M,medical_reports/749843.jpg,50.0,schwannoma,Benign,749843,1
+126,136,69,spindle cell sarcoma,2.0,4960 20,747969,M,medical_reports/747969.pdf,89.0,spindle cell sarcoma,Malignant,747969,1
+127,138,75,pleomorphic sarcoma,3.0,6276/20,749432,M,medical_reports/749432.pdf,90.0,pleomorphic sarcoma,Malignant,749432,1
+128,139,21,sarcoma (nos),3.0,6844/20,750115,M,medical_reports/750115.pdf,93.0,sarcoma (nos),Malignant,750115,1
+129,141,87,pleomorphic sarcoma,,3757 20,680138,F,medical_reports/680138.jpg,90.0,pleomorphic sarcoma,Malignant,680138,15
+130,142,57,pleomorphic sarcoma,3.0,1922/20,744153,F,medical_reports/744153.jpg,90.0,pleomorphic sarcoma,Malignant,744153,4
+131,143,79,smooth muscle neoplasm,1.0,8308/20,665253,F,medical_reports/665253.jpg,46.0,smooth muscle neoplasm,Benign,665253,1
+132,144,43,dermatofibrosarcoma protuberans,,1714 20,742620,M,medical_reports/742620.pdf,11.0,dermatofibrosarcoma protuberans,Intermediate (rarely),742620,4
+133,145,54,desmoid-type fibromatosis,,8221/20,750828,M,medical_reports/750828.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),750828,1
+134,146,59,mammary-type myofibroblastoma,,1444/20,H14404,M,medical_reports/H14404.pdf,29.0,mammary-type myofibroblastoma,Benign,H14404,1
+135,147,63,intramuscular myxoma,,8046/20,752433,M,medical_reports/752433.jpg,67.0,intramuscular myxoma,Benign,752433,1
+136,148,75,desmoid-type fibromatosis,,8675/20,393265,F,medical_reports/393265.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),393265,1
+137,149,67,leiomyosarcoma,2.0,4138 20,746577,M,medical_reports/746577.jpg,26.0,leiomyosarcoma,Malignant,746577,2
+138,150,73,dedifferentiated liposarcoma,2.0,5278 20,627427,F,medical_reports/627427.pdf,3.0,dedifferentiated liposarcoma,Malignant,627427,2
+139,151,58,epithelioid hemangioendothelioma,,4179 20,732930,F,medical_reports/732930.jpg,79.0,epithelioid hemangioendothelioma,Malignant,732930,11
+140,152,67,pleomorphic sarcoma,,1984 20,698711,M,medical_reports/698711.pdf,90.0,pleomorphic sarcoma,Malignant,698711,3
+141,153,65,well-differentiated liposarcoma,2.0,6069/20,373805,M,medical_reports/373805.pdf,2.0,well-differentiated liposarcoma,Intermediate (locally),373805,1
+142,155,32,clear cell sarcoma of soft tissue,,0628/20,740197,F,medical_reports/740197.pdf,58.0,clear cell sarcoma of soft tissue,Malignant,740197,2
+143,156,58,solitary fibrous tumour,,1195 20,741269,M,medical_reports/741269.pdf,14.0,solitary fibrous tumour,Intermediate (rarely),741269,2
+144,156,58,solitary fibrous tumour,,1195 20,741269,M,medical_reports/741269.pdf,75.0,solitary fibrous tumour,Intermediate (rarely),741269,2
+145,157,13,neuroblastoma,,1570 20,721973,F,medical_reports/721973.pdf,82.0,neuroblastoma,Malignant,721973,5
+146,306,14,neuroblastoma,,4281 20,721973,F,medical_reports/721973.jpg,82.0,neuroblastoma,Malignant,721973,5
+147,158,62,dedifferentiated liposarcoma,2.0,1290/20,4567206215,F,medical_reports/4567206215.pdf,3.0,dedifferentiated liposarcoma,Malignant,4567206215,4
+148,159,62,leiomyosarcoma,2.0,1339 20,732603,F,medical_reports/732603.jpg,26.0,leiomyosarcoma,Malignant,732603,9
+149,160,11,neurofibroma,,8037/20,751975,M,medical_reports/751975.jpg,52.0,neurofibroma,Benign,751975,2
+150,161,46,solitary fibrous tumour,,938 20,728324,M,medical_reports/728324.pdf,14.0,solitary fibrous tumour,Intermediate (rarely),728324,20
+151,161,46,solitary fibrous tumour,,938 20,728324,M,medical_reports/728324.pdf,75.0,solitary fibrous tumour,Intermediate (rarely),728324,20
+152,162,59,myxofibrosarcoma,1.0,8779/20,753076,F,medical_reports/753076.jpg,21.0,myxofibrosarcoma,Malignant,753076,1
+153,164,50,well-differentiated liposarcoma,3.0,6555/20,748804,M,medical_reports/748804.pdf,2.0,well-differentiated liposarcoma,Intermediate (locally),748804,3
+154,236,50,dedifferentiated liposarcoma,3.0,6555/20,748804,M,medical_reports/748804.jpg,3.0,dedifferentiated liposarcoma,Malignant,748804,3
+155,166,45,leiomyosarcoma,2.0,1989 20,4060999490,M,medical_reports/4060999490.pdf,26.0,leiomyosarcoma,Malignant,4060999490,7
+156,167,31,desmoid-type fibromatosis,,3571 20,745512,F,medical_reports/745512.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),745512,5
+157,168,73,pleomorphic sarcoma,,1143 20,733266,F,medical_reports/733266.jpg,90.0,pleomorphic sarcoma,Malignant,733266,10
+158,169,64,gastrointestinal stromal tumour,,0487/20,742663,F,medical_reports/742663.pdf,84.0,gastrointestinal stromal tumour,Malignant,742663,2
+159,170,78,leiomyosarcoma,1.0,6499/19,740425,M,medical_reports/740425.pdf,26.0,leiomyosarcoma,Malignant,740425,10
+160,171,38,well-differentiated liposarcoma,,7495/20,751380,M,medical_reports/751380.jpg,2.0,well-differentiated liposarcoma,Intermediate (locally),751380,1
+161,174,45,ganglioneuroma,,7405/20,750077,M,medical_reports/750077.jpg,55.0,ganglioneuroma,Benign,750077,2
+162,175,60,pleomorphic sarcoma,2.0,0432/20,711086,M,medical_reports/711086.pdf,90.0,pleomorphic sarcoma,Malignant,711086,3
+163,176,22,dermatofibrosarcoma,,5992/20,749042,M,medical_reports/749042.pdf,77.0,dermatofibrosarcoma,Intermediate (rarely),749042,3
+164,177,68,dedifferentiated liposarcoma,3.0,0587/20,732812,M,medical_reports/732812.pdf,3.0,dedifferentiated liposarcoma,Malignant,732812,14
+165,178,80,solitary fibrous tumour,,4063 20,746454,F,medical_reports/746454.jpg,14.0,solitary fibrous tumour,Intermediate (rarely),746454,6
+166,178,80,solitary fibrous tumour,,4063 20,746454,F,medical_reports/746454.jpg,75.0,solitary fibrous tumour,Intermediate (rarely),746454,6
+167,180,65,gastrointestinal stromal tumour,,8394/20,729823,F,medical_reports/729823.jpg,84.0,gastrointestinal stromal tumour,Malignant,729823,2
+168,181,72,solitary fibrous tumour,,2891/20,743965,M,medical_reports/743965.pdf,14.0,solitary fibrous tumour,Intermediate (rarely),743965,9
+169,181,72,solitary fibrous tumour,,2891/20,743965,M,medical_reports/743965.pdf,75.0,solitary fibrous tumour,Intermediate (rarely),743965,9
+170,182,89,leiomyosarcoma,2.0,4551 20,747375,M,medical_reports/747375.jpg,26.0,leiomyosarcoma,Malignant,747375,1
+171,185,18,angiomatoid fibrous histiocytoma,,7928/20,739357,M,medical_reports/739357.jpg,48.0,angiomatoid fibrous histiocytoma,Intermediate (rarely),739357,2
+172,286,18,angiomatoid fibrous histiocytoma,,7928/20,739357,M,medical_reports/739537.jpg,48.0,angiomatoid fibrous histiocytoma,Intermediate (rarely),739357,2
+173,186,73,spindle cell sarcoma,2.0,6625/20,749217,M,medical_reports/749217.pdf,89.0,spindle cell sarcoma,Malignant,749217,1
+174,187,87,myxofibrosarcoma,2.0,8188/20,748838,M,medical_reports/748838.jpg,21.0,myxofibrosarcoma,Malignant,748838,2
+175,253,87,solitary fibrous tumor,2.0,6756/20,748838,M,medical_reports/748838.pdf,76.0,solitary fibrous tumor,Intermediate (rarely),748838,2
+176,190,92,schwannoma,,7376/20,743984,F,medical_reports/743984.jpg,50.0,schwannoma,Benign,743984,1
+177,191,38,synovial sarcoma,,1423 20,731916,F,medical_reports/731916.jpg,53.0,synovial sarcoma,Malignant,731916,4
+178,191,38,synovial sarcoma,,1423 20,731916,F,medical_reports/731916.jpg,87.0,synovial sarcoma,Malignant,731916,4
+179,192,45,tenosynovial giant cell tumour,,3636/20,746293,M,medical_reports/746293.jpg,37.0,tenosynovial giant cell tumour,Benign,746293,1
+180,194,42,spindle cell sarcoma,,7447/20,749860,M,medical_reports/749860.jpg,89.0,spindle cell sarcoma,Malignant,749860,1
+181,196,75,myxofibrosarcoma,1.0,8265/20,752553,M,medical_reports/752553.jpg,21.0,myxofibrosarcoma,Malignant,752553,2
+182,197,47,pleomorphic sarcoma,,3758 20,740567,M,medical_reports/740567.jpg,90.0,pleomorphic sarcoma,Malignant,740567,8
+183,198,16,nodular fasciitis,,7983/20,751277,F,medical_reports/751277.jpg,16.0,nodular fasciitis,Benign,751277,1
+184,199,51,myxofibrosarcoma,2.0,5628 20,615457,F,medical_reports/615457.pdf,21.0,myxofibrosarcoma,Malignant,615457,1
+185,200,78,gastrointestinal stromal tumour,,4453 20,588674,F,medical_reports/588674.jpg,84.0,gastrointestinal stromal tumour,Malignant,588674,1
+186,201,73,angiosarcoma,,4537 20,740094,M,medical_reports/740094.pdf,80.0,angiosarcoma,Malignant,740094,3
+187,202,48,angiolipoma,,8378/20,748839,M,medical_reports/748839.jpg,5.0,angiolipoma,Benign,748839,1
+188,203,76,pleomorphic sarcoma,3.0,1720 20,740195,M,medical_reports/740195.pdf,90.0,pleomorphic sarcoma,Malignant,740195,6
+189,204,38,gastrointestinal stromal tumor,,8118/20,686845,F,medical_reports/686845.jpg,85.0,gastrointestinal stromal tumor,Malignant,686845,1
+190,206,57,smooth muscle tumor,,3749 20,746364,F,medical_reports/746364.jpg,47.0,smooth muscle tumor,Benign,746364,2
+191,290,57,smooth muscle tumor,,4437 20,746364,F,medical_reports/746364.pdf,47.0,smooth muscle tumor,Benign,746364,2
+192,207,56,lipoma,,8413/20,742392,M,medical_reports/742392.jpg,14.0,lipoma,Benign,742392,1
+193,208,38,nodular fasciitis,,8135/20,750836,M,medical_reports/750836.jpg,16.0,nodular fasciitis,Benign,750836,1
+194,209,71,chordoma,,9359/20,656644,M,medical_reports/656644.jpg,95.0,chordoma,Malignant,656644,1
+195,210,26,low-grade fibromyxoid sarcoma,,7898/20,749825,M,medical_reports/749825.jpg,22.0,low-grade fibromyxoid sarcoma,Malignant,749825,1
+196,211,80,gastrointestinal stromal tumor,,8620/20,744945,M,medical_reports/744945.jpg,85.0,gastrointestinal stromal tumor,Malignant,744945,1
+197,212,65,dedifferentiated liposarcoma,2.0,8722/20,750818,M,medical_reports/750818.jpg,3.0,dedifferentiated liposarcoma,Malignant,750818,1
+198,213,45,sarcoma (nos),3.0,5004 20,747132,M,medical_reports/747132.pdf,93.0,sarcoma (nos),Malignant,747132,1
+199,214,57,smooth muscle neoplasm,,7441/20,751369,M,medical_reports/751369.jpg,46.0,smooth muscle neoplasm,Benign,751369,1
+200,215,62,spindle cell lipoma,,3573 20,741707,M,medical_reports/741707.jpg,10.0,spindle cell lipoma,Benign,741707,6
+201,216,86,atypical fibroxanthoma,,1296/20,743368,M,medical_reports/743368.pdf,47.0,atypical fibroxanthoma,Intermediate (rarely),743368,3
+202,217,53,lipoma,,6553 20,741420,M,medical_reports/741420.pdf,14.0,lipoma,Benign,741420,1
+203,218,52,well-differentiated liposarcoma,,9375/20,741541,M,medical_reports/741541.jpg,2.0,well-differentiated liposarcoma,Intermediate (locally),741541,1
+204,219,68,solitary fibrous tumour,,5024/19,737791,M,medical_reports/737791.pdf,14.0,solitary fibrous tumour,Intermediate (rarely),737791,10
+205,219,68,solitary fibrous tumour,,5024/19,737791,M,medical_reports/737791.pdf,75.0,solitary fibrous tumour,Intermediate (rarely),737791,10
+206,221,42,neurofibroma,,5528 20,747842,F,medical_reports/747842.jpg,52.0,neurofibroma,Benign,747842,1
+207,222,60,myxoma,,0823/20,742533,F,medical_reports/742533.pdf,59.0,myxoma,Benign,742533,9
+208,223,43,dermatofibrosarcoma,,3238/20,741615,M,medical_reports/741615.pdf,77.0,dermatofibrosarcoma,Intermediate (rarely),741615,4
+209,224,20,leiomyosarcoma,3.0,8525/20,H28613,F,medical_reports/H28613.jpg,26.0,leiomyosarcoma,Malignant,H28613,1
+210,225,56,lipoma,,0915/20,733267,M,medical_reports/733267.pdf,14.0,lipoma,Benign,733267,5
+211,226,84,rhabdomyosarcoma,3.0,8331/20,752511,F,medical_reports/752511.jpg,81.0,rhabdomyosarcoma,Malignant,752511,1
+212,227,63,gastrointestinal stromal tumor,,7936/20,752408,F,medical_reports/752408.jpg,85.0,gastrointestinal stromal tumor,Malignant,752408,1
+213,228,34,sarcoma (nos),,8323/20,753034,F,medical_reports/753034.jpg,93.0,sarcoma (nos),Malignant,753034,1
+214,229,79,pleomorphic rhabdomyosarcoma,,9111/20,753211,M,medical_reports/753211.jpg,29.0,pleomorphic rhabdomyosarcoma,Malignant,753211,2
+215,230,76,myxofibrosarcoma,3.0,5049/20,747439,M,medical_reports/747439.pdf,21.0,myxofibrosarcoma,Malignant,747439,2
+216,231,72,pleomorphic sarcoma,3.0,8615/20,750874,F,medical_reports/750874.jpg,90.0,pleomorphic sarcoma,Malignant,750874,1
+217,232,62,leiomyosarcoma,1.0,1780 20,744825,F,medical_reports/744825.pdf,26.0,leiomyosarcoma,Malignant,744825,7
+218,233,65,lipoma,,1275 20,741075,M,medical_reports/741075.jpg,14.0,lipoma,Benign,741075,4
+219,234,68,leiomyoma,,3400/20,743981,F,medical_reports/743981.jpg,45.0,leiomyoma,Benign,743981,5
+220,235,91,pleomorphic liposarcoma,2.0,3381 20,743982,F,medical_reports/743982.jpg,5.0,pleomorphic liposarcoma,Malignant,743982,8
+221,237,50,lipoma,,8511/20,750845,M,medical_reports/750845.jpg,14.0,lipoma,Benign,750845,1
+222,240,28,smooth muscle neoplasm,,4025/20,745625,M,medical_reports/745625.jpg,46.0,smooth muscle neoplasm,Benign,745625,3
+223,241,47,desmoid-type fibromatosis,,7774/20,751524,F,medical_reports/751524.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),751524,1
+224,242,13,rhabdomyosarcoma,,1617 20,742872,M,medical_reports/742872.pdf,81.0,rhabdomyosarcoma,Malignant,742872,14
+225,243,75,well-differentiated liposarcoma,2.0,6132 20,713276,M,medical_reports/713276.pdf,2.0,well-differentiated liposarcoma,Intermediate (locally),713276,1
+226,244,45,myxoid liposarcoma,,7057/20,746569,F,medical_reports/746569.pdf,4.0,myxoid liposarcoma,Malignant,746569,10
+227,268,45,myxoid liposarcoma,,4145/20,746569,F,medical_reports/746569.jpg,4.0,myxoid liposarcoma,Malignant,746569,10
+228,245,46,well-differentiated liposarcoma,3.0,8445/20,750803,F,medical_reports/750803.jpg,2.0,well-differentiated liposarcoma,Intermediate (locally),750803,1
+229,246,55,pleomorphic sarcoma,,4389 20,740093,F,medical_reports/740093.jpg,90.0,pleomorphic sarcoma,Malignant,740093,21
+230,327,55,sarcoma (nos),,1983 20,740093,F,medical_reports/740093.pdf,93.0,sarcoma (nos),Malignant,740093,21
+231,248,47,gastrointestinal stromal tumour,,2292 20,744911,F,medical_reports/744911.pdf,84.0,gastrointestinal stromal tumour,Malignant,744911,5
+232,250,56,leiomyosarcoma,3.0,9084/20,753019,F,medical_reports/753019.jpg,26.0,leiomyosarcoma,Malignant,753019,1
+233,254,59,spindle cell sarcoma,2.0,6216/20,749191,F,medical_reports/749191.pdf,89.0,spindle cell sarcoma,Malignant,749191,1
+234,255,47,spindle cell sarcoma,2.0,7492/20,751396,F,medical_reports/751396.jpg,89.0,spindle cell sarcoma,Malignant,751396,1
+235,256,56,lipoma,,9037/20,753315,F,medical_reports/753315.jpg,14.0,lipoma,Benign,753315,1
+236,258,27,dermatofibrosarcoma,,5381 20,742120,M,medical_reports/742120.jpg,77.0,dermatofibrosarcoma,Intermediate (rarely),742120,1
+237,259,47,schwannoma,,8928/20,750847,F,medical_reports/750847.jpg,50.0,schwannoma,Benign,750847,1
+238,260,61,gastrointestinal stromal tumor,,2851 20,742799,F,medical_reports/742799.pdf,85.0,gastrointestinal stromal tumor,Malignant,742799,10
+239,261,48,nodular fasciitis,,7810/20,749814,F,medical_reports/749814.jpg,16.0,nodular fasciitis,Benign,749814,1
+240,262,68,pleomorphic sarcoma,,4184/19,731794,M,medical_reports/731794.pdf,90.0,pleomorphic sarcoma,Malignant,731794,8
+241,264,69,melanoma,,7504/20,H28596,M,medical_reports/H28596.jpg,96.0,melanoma,Malignant,H28596,1
+242,265,77,leiomyosarcoma,2.0,0585/20,H28501,M,medical_reports/177100.pdf,26.0,leiomyosarcoma,Malignant,H28501,2
+243,266,82,angiosarcoma,,8316/20,655933,F,medical_reports/655933.jpg,80.0,angiosarcoma,Malignant,655933,1
+244,267,59,dedifferentiated liposarcoma,2.0,3960 20,745521,M,medical_reports/745521.jpg,3.0,dedifferentiated liposarcoma,Malignant,745521,12
+245,269,73,desmoid-type fibromatosis,,6997/20,540687,F,medical_reports/540687.pdf,8.0,desmoid-type fibromatosis,Intermediate (locally),540687,1
+246,270,45,dermatofibrosarcoma protuberans,,5272 20,20747281,F,medical_reports/20747281.pdf,11.0,dermatofibrosarcoma protuberans,Intermediate (rarely),20747281,1
+247,271,62,leiomyosarcoma,,0482/20,4462713850,F,medical_reports/4462713850.pdf,26.0,leiomyosarcoma,Malignant,4462713850,1
+248,273,60,intramuscular myxoma,,3382/20,651433,M,medical_reports/651433.jpg,67.0,intramuscular myxoma,Benign,651433,4
+249,275,72,sarcoma (nos),2.0,4913 20,747860,M,medical_reports/747860.pdf,93.0,sarcoma (nos),Malignant,747860,1
+250,277,63,low-grade fibromyxoid sarcoma,,3709 20,740902,M,medical_reports/740902.jpg,22.0,low-grade fibromyxoid sarcoma,Malignant,740902,3
+251,278,71,leiomyosarcoma,,2399/20,529889,F,medical_reports/529889.pdf,26.0,leiomyosarcoma,Malignant,529889,7
+252,279,85,melanoma,,8038/20,4181777839,M,medical_reports/4181777839.jpg,96.0,melanoma,Malignant,4181777839,1
+253,280,36,desmoid-type fibromatosis,,3502 20,745629,F,medical_reports/745629.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),745629,5
+254,281,27,lipoma,,8045/20,752457,M,medical_reports/752457.jpg,14.0,lipoma,Benign,752457,1
+255,282,31,solitary fibrous tumor,,7371/20,746525,F,medical_reports/746525.jpg,76.0,solitary fibrous tumor,Intermediate (rarely),746525,5
+256,283,2,ganglioneuroma,,,740913,F,medical_reports/740913.pdf,55.0,ganglioneuroma,Benign,740913,6
+257,285,18,sarcomatoid carcinoma,,3825/20,714203,F,medical_reports/714203.pdf,99.0,sarcomatoid carcinoma,Malignant,714203,1
+258,287,57,well-differentiated liposarcoma,2.0,8415/20,703664,F,medical_reports/703664.jpg,2.0,well-differentiated liposarcoma,Intermediate (locally),703664,2
+259,288,47,leiomyosarcoma,,4541/19,4683550008,F,medical_reports/4683550008.jpg,26.0,leiomyosarcoma,Malignant,4683550008,1
+260,291,44,desmoid-type fibromatosis,,4590 20,741773,M,medical_reports/741773.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),741773,3
+261,292,85,schwannoma,,9099/20,752587,F,medical_reports/752587.jpg,50.0,schwannoma,Benign,752587,1
+262,293,47,solitary fibrous tumour,,1719 20,740385,F,medical_reports/740385.pdf,14.0,solitary fibrous tumour,Intermediate (rarely),740385,5
+263,293,47,solitary fibrous tumour,,1719 20,740385,F,medical_reports/740385.pdf,75.0,solitary fibrous tumour,Intermediate (rarely),740385,5
+264,294,43,lipoma,,9373/20,741850,F,medical_reports/741850.jpg,14.0,lipoma,Benign,741850,1
+265,295,65,myxofibrosarcoma,1.0,0526/20,742348,F,medical_reports/742348.pdf,21.0,myxofibrosarcoma,Malignant,742348,1
+266,296,46,angiosarcoma,,4504/20,742095,F,medical_reports/742095.jpg,80.0,angiosarcoma,Malignant,742095,1
+267,297,78,myxofibrosarcoma,1.0,6071/20,625410,M,medical_reports/625410.pdf,21.0,myxofibrosarcoma,Malignant,625410,1
+268,298,74,gastrointestinal stromal tumor,,7372/20,745153,M,medical_reports/745153.jpg,85.0,gastrointestinal stromal tumor,Malignant,745153,1
+269,299,60,myofibroblastoma,,8806/20,750804,F,medical_reports/750804.jpg,30.0,myofibroblastoma,Benign,750804,1
+270,300,56,leiomyosarcoma,3.0,6894/20,751030,F,medical_reports/751030.pdf,26.0,leiomyosarcoma,Malignant,751030,1
+271,301,30,desmoid-type fibromatosis,,6692 20,748836,F,medical_reports/748836.pdf,8.0,desmoid-type fibromatosis,Intermediate (locally),748836,2
+272,302,29,solitary fibrous tumor,,3143/20,740255,F,medical_reports/740255.jpg,76.0,solitary fibrous tumor,Intermediate (rarely),740255,8
+273,303,78,spindle cell sarcoma,3.0,4155 20,746527,F,medical_reports/746527.jpg,89.0,spindle cell sarcoma,Malignant,746527,8
+274,304,77,dedifferentiated liposarcoma,3.0,6799/20,746726,M,medical_reports/746726.pdf,3.0,dedifferentiated liposarcoma,Malignant,746726,2
+275,307,57,leiomyosarcoma,1.0,7673/20,749888,M,medical_reports/749888.jpg,26.0,leiomyosarcoma,Malignant,749888,1
+276,308,38,dermatofibrosarcoma,2.0,6759/20,749971,M,medical_reports/749971.pdf,77.0,dermatofibrosarcoma,Intermediate (rarely),749971,1
+277,309,55,leiomyosarcoma,1.0,2434/20,741545,F,medical_reports/741545.pdf,26.0,leiomyosarcoma,Malignant,741545,1
+278,310,80,pleomorphic rhabdomyosarcoma,3.0,3498 20,745192,M,medical_reports/745192.jpg,29.0,pleomorphic rhabdomyosarcoma,Malignant,745192,1
+279,311,43,neurofibroma,,8124/20,752415,M,medical_reports/752415.jpg,52.0,neurofibroma,Benign,752415,1
+280,313,40,pleomorphic liposarcoma,,1593/20,743474,F,medical_reports/743474.jpg,5.0,pleomorphic liposarcoma,Malignant,743474,2
+281,314,76,leiomyosarcoma,3.0,6352/20,747850,F,medical_reports/747850.pdf,26.0,leiomyosarcoma,Malignant,747850,1
+282,315,56,leiomyosarcoma,,4505 20,747140,F,medical_reports/747140.jpg,26.0,leiomyosarcoma,Malignant,747140,1
+283,316,72,spindle cell sarcoma,3.0,7933/20,750216,M,medical_reports/750216.jpg,89.0,spindle cell sarcoma,Malignant,750216,2
+284,332,72,spindle cell sarcoma,3.0,6893/20,750216,M,medical_reports/750216.pdf,89.0,spindle cell sarcoma,Malignant,750216,2
+285,318,11,clear cell sarcoma of soft tissue,,3945 20,744378,F,medical_reports/744378.jpg,58.0,clear cell sarcoma of soft tissue,Malignant,744378,1
+286,319,65,pleomorphic sarcoma,2.0,6314/20,749378,M,medical_reports/749378.pdf,90.0,pleomorphic sarcoma,Malignant,749378,1
+287,320,52,desmoid-type fibromatosis,,4105 20,746824,F,medical_reports/746824.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),746824,8
+288,321,21,well-differentiated liposarcoma,2.0,936 20,607460,F,medical_reports/607460.pdf,2.0,well-differentiated liposarcoma,Intermediate (locally),607460,7
+289,322,45,leiomyosarcoma,2.0,1365 20,741363,M,medical_reports/741363.pdf,26.0,leiomyosarcoma,Malignant,741363,5
+290,323,31,malignant granular cell tumour,,913 20,736488,F,medical_reports/736488.pdf,42.0,malignant granular cell tumour,Malignant,736488,4
+291,324,49,myxoma,,913 20,741771,F,medical_reports/741771.jpg,59.0,myxoma,Benign,741771,6
+292,325,62,fibrolipoma,,6391/20,748891,M,medical_reports/748891.pdf,0.0,fibrolipoma,Benign,748891,1
+293,326,64,mammary-type myofibroblastoma,,0483 20,6250045082,F,medical_reports/6250045082.jpg,29.0,mammary-type myofibroblastoma,Benign,6250045082,1
+294,328,79,myxofibrosarcoma,2.0,7467 14,746714,F,medical_reports/746714.pdf,21.0,myxofibrosarcoma,Malignant,746714,2
+295,329,42,desmoid-type fibromatosis,,3848/20,741711,F,medical_reports/741711.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),741711,2
+296,330,27,epithelioid sarcoma,,2078/20,662198,M,medical_reports/662198.jpg,56.0,epithelioid sarcoma,Malignant,662198,20
+297,330,27,epithelioid sarcoma,,2078/20,662198,M,medical_reports/662198.jpg,92.0,epithelioid sarcoma,Malignant,662198,20
+298,331,70,desmoid-type fibromatosis,,8704/20,751165,M,medical_reports/751165.jpg,8.0,desmoid-type fibromatosis,Intermediate (locally),751165,1
+299,333,31,schwannoma,,7851/20,4987958562,M,medical_reports/4987958562.jpg,50.0,schwannoma,Benign,4987958562,1
+300,334,68,pleomorphic sarcoma,,3379 20,740477,M,medical_reports/740477.jpg,90.0,pleomorphic sarcoma,Malignant,740477,4
+301,336,71,pleomorphic lipoma,,7579/20,4445753947,M,medical_reports/4445753947.jpg,11.0,pleomorphic lipoma,Benign,4445753947,1
+302,338,57,solitary fibrous tumour,,7659/20,744243,M,medical_reports/744243.jpg,14.0,solitary fibrous tumour,Intermediate (rarely),744243,2
+303,338,57,solitary fibrous tumour,,7659/20,744243,M,medical_reports/744243.jpg,75.0,solitary fibrous tumour,Intermediate (rarely),744243,2
+304,339,63,sarcomatoid carcinoma,,4099 20,746770,M,medical_reports/746770.jpg,99.0,sarcomatoid carcinoma,Malignant,746770,1
+305,340,75,schwannoma,,1821 20,696401,F,medical_reports/696401.pdf,50.0,schwannoma,Benign,696401,7
+306,341,47,myxoid liposarcoma,,4184 20,736363,M,medical_reports/736363.jpg,4.0,myxoid liposarcoma,Malignant,736363,2
+307,342,23,synovial sarcoma,,8812/20,H28616,M,medical_reports/H28616.jpg,53.0,synovial sarcoma,Malignant,H28616,2
+308,342,23,synovial sarcoma,,8812/20,H28616,M,medical_reports/H28616.jpg,87.0,synovial sarcoma,Malignant,H28616,2

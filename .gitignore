@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+attachments/
+codes.pickle
+json/
+records.pickle
+sarcoma_codes/

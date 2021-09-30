@@ -1,0 +1,110 @@
+{
+"Germ cells":{
+    "immuno markers":[  "Alpha fetoprotein",
+                "OCT3/4",
+                "SALL4",
+                "CD30",
+                "Placental alkaline phosphatase (PLAP)"]
+            },
+    "Epithelial cells":{
+        "immuno markers":  ["Cytokeratin",
+                            "EMA"]
+        },
+        
+    "Muscle cells":{
+        "immuno markers":  ["Actin",
+                            "Caldesmon",
+                            "Desmin",
+                            "Myoglobin",
+                            "Myogenin",
+                            "myod1",
+                            "\\bSMA\\b"]
+        },
+    "Hematopoietic cells":{
+       "immuno markers":  [ "CD10",
+                           "CD45",
+                           "CD79a",
+                           "CD15",
+                           "CD1a",
+                           "CD68",
+                           "Myeloperoxidate",
+                           "TdT",
+                           "CD21", 
+                           "CD23", 
+                           "CD35",
+                           "CD117",
+                           "CD138"
+                           ]
+    },
+    "Endothelial cells":{
+       "immuno markers": ["Von Willebrand factor",
+                          "CD31",
+                          "CD34",
+                          "CDK4",
+                          "CK5/6",
+                          "ERG"]
+    
+    },
+    "Neuroendocrine cells":{
+       "immuno markers":[ "Neuron-specific enolase",
+                          "CD56",
+                          "CD57",
+                          "PGP5.5",
+                          "Synaptophysin",
+                          "Chromogranin",
+                          "NeuroN",
+                          "Neurofilaments"]
+    },
+    "Melanocytic cells":{
+       "immuno markers": [  "S100",
+                            "HMB45",
+                            "MITF",
+                            "MelanA"]
+    
+    },
+    "others":{
+        "immuno markers": [ "DOG1", 
+                            "KIT",
+                            "PAX8",
+                            "beta-Catenin",
+                            "MDM2",
+                            "SMARCB1",
+                            "SDH",
+                            "Brachyury",
+                            "p63",
+                            "GFAP",
+                            "HMGA2",
+                            "H3G34W",
+                            "H3K36M",
+                            "PAX3",
+                            "TLE1",
+                            "F13a",
+                            "pgr",
+                            " ER",
+                            "STAT6",
+                            "BGR1",
+                            "INI1",
+                            "P16",
+                            "calretinin",
+                            "CAM5.2",
+                             "SOX10",
+                             "STATE"]
+      
+      },
+    "keratins":  {
+        "immuno_markers":  ["K7",
+                            "K8",
+                            "K18",
+                            "K19",
+                            "K13", 
+                            "K14", 
+                            "K17",
+                            "K20",
+                            "AE1/AE3"]
+      
+      }
+        
+                          
+  
+}
+ 
